@@ -25,3 +25,12 @@ Current solutions under consideration:
 - MySQL
 - MariaDB
 - Postgres
+
+## Security
+- fail2ban
+- ClamAV
+- iptables
+- Snort
+
+## Extras
+- [Matomo](https://matomo.org/) for web analytic data
