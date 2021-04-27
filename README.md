@@ -16,6 +16,7 @@ https://cruisewsl.com
 - 22/TCP
 - 80/TCP
 - 443/TCP
+- 9001/TCP
 
 ## nginx Reverse Proxy
 `nginx` will act as a reverse proxy to serve `Docker`ized web
@@ -25,8 +26,8 @@ apps and other services.
 `mariadb` is our choice of database.
 
 ## Security
-- fail2ban
-- ClamAV
+- [fail2ban](notes/fail2ban.md)
+- ClamAV (Done)
 - iptables
 - Snort
 
