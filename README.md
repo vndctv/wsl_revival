@@ -22,10 +22,7 @@ https://cruisewsl.com
 apps and other services.
 
 ## Database
-Current solutions under consideration:
-- MySQL
-- MariaDB
-- Postgres
+`mariadb` is our choice of database.
 
 ## Security
 - fail2ban
