@@ -2,12 +2,12 @@
 https://cruisewsl.com
 
 ## Essential Services
-- SSH
-- HTTP/S
-- Database
+- SSH (Completed)
+- HTTP/S (Completed)
+- Database (Completed)
 - FTP/SFTP
-- [Docker](notes/docker.md) 
-- [Portainer](notes/portainer.md)
+- [Docker](notes/docker.md) (Completed)
+- [Portainer](notes/portainer.md) (Completed)
 
 ## Host Operating System
 - Debian 10
@@ -26,8 +26,8 @@ apps and other services.
 `mariadb` is our choice of database.
 
 ## Security
-- [fail2ban](notes/fail2ban.md)
-- ClamAV (Done)
+- [fail2ban](notes/fail2ban.md) (Completed)
+- ClamAV (Completed)
 - iptables
 - Snort
 
