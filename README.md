@@ -6,7 +6,8 @@ https://cruisewsl.com
 - HTTP/S
 - Database
 - FTP/SFTP
-- Docker
+- [Docker](notes/docker.md) 
+- [Portainer](notes/portainer.md)
 
 ## Host Operating System
 - Debian 10
@@ -31,6 +32,12 @@ Current solutions under consideration:
 - ClamAV
 - iptables
 - Snort
+
+## Infrastructure
+2 Virtual Machines:
+
+1. www (production) - Production VM
+2. dev (development) - Development VM
 
 ## Extras
 - [Matomo](https://matomo.org/) for web analytic data
