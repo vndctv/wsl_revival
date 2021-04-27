@@ -1,4 +1,4 @@
-# Portainer Installation Nodes
+# Portainer Install Notes
 
 ## Pre-Installation Commands
 - `sudo mkdir -p /data/portainer`
