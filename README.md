@@ -6,7 +6,8 @@ https://cruisewsl.com
 - HTTP/S
 - Database
 - FTP/SFTP
-- Docker
+- [Docker](notes/docker.md) 
+- [Portainer](notes/portainer.md)
 
 ## Host Operating System
 - Debian 10
