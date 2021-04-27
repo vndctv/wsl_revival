@@ -33,5 +33,11 @@ Current solutions under consideration:
 - iptables
 - Snort
 
+## Infrastructure
+2 Virtual Machines:
+
+1. www (production) - Production VM
+2. dev (development) - Development VM
+
 ## Extras
 - [Matomo](https://matomo.org/) for web analytic data
