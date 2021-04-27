@@ -16,4 +16,4 @@ sudo ln -s /snap/bin/certbot /usr/bin/certbot # symlink binary
 Certificates can then be issued using the command `sudo certbot --nginx`. This will scan the `nginx` configuration files for valid
 servers and prompt accordingly.
 
-Configuration file is available here: (confs/www.cruisewsl.com.conf)[../confs/www.cruisewsl.com.conf]
+Configuration file is available here: [confs/www.cruisewsl.com.conf](../confs/www.cruisewsl.com.conf)
