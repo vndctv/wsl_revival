@@ -4,7 +4,7 @@ https://cruisewsl.com
 ## Essential Services
 - SSH (Completed)
 - HTTP/S (Completed)
-- Database (Completed)
+- [Database](notes/database.md) (Completed)
 - FTP/SFTP
 - [Docker](notes/docker.md) (Completed)
 - [Portainer](notes/portainer.md) (Completed)
