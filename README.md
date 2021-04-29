@@ -3,9 +3,8 @@ https://cruisewsl.com
 
 ## Essential Services
 - SSH (Completed)
-- HTTP/S (Completed)
+- [HTTP/S](notes/nginx.md) (Completed)
 - [Database](notes/database.md) (Completed)
-- FTP/SFTP
 - [Docker](notes/docker.md) (Completed)
 - [Portainer](notes/portainer.md) (Completed)
 
@@ -38,4 +37,4 @@ apps and other services.
 2. dev (development) - Development VM
 
 ## Extras
-- [Matomo](https://matomo.org/) for web analytic data
+- [Grafana](https://grafana.com/) for visualizing and presenting data
